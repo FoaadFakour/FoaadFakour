@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Foad 👋
 
-<!--
-**FoaadFakour/FoaadFakour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Computer Science — Sapienza University of Rome  
+🔌 Background in Computer Networks | Passionate about Software Engineering & ML  
+🌍 Based in Rome, looking to work in London (UK Skilled Worker Visa ready)  
 
-Here are some ideas to get you started:
+## 👨‍💻 Technologies I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C++, JavaScript, HTML, CSS, SQL  
+- **Tools**: Git, GitHub, VSCode, Docker (learning)  
+- **Cloud & Systems**: AWS Foundations, Linux, VMware, Cisco Packet Tracer  
+- **Certifications**: CCNA, MCSA, Network+, MikroTik  
+
+## 📂 Projects (in progress)
+
+- **[Event Manager Web App](#)** – PHP, HTML, MySQL (Bachelor’s Project)  
+- **Portfolio Website** – HTML, CSS, JavaScript  
+- **Image Classifier** – Python, Scikit-learn  
+- **Task Manager Web App** – Flask, MongoDB  
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/foaad-asl-fakour-43b280125)
+- [Email](mailto:foaad.fakour@gmail.com)
