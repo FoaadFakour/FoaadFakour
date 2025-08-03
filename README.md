@@ -2,7 +2,7 @@
 
 🎓 Master's in Computer Science — Sapienza University of Rome  
 🔌 Background in Computer Networks | Passionate about Software Engineering & ML  
-🌍 Based in Rome, looking to work in London (UK Skilled Worker Visa ready)  
+🌍 Based in Rome, looking to work
 
 ## 👨‍💻 Technologies I Use
 
